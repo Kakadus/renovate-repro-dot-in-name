@@ -5,6 +5,6 @@
   "description": "Minimal repro: Renovate's npm manager mishandles GitHub deps when the repo name contains a dot — github: shorthand is silently skipped, SSH form is silently truncated to the wrong repo.",
   "dependencies": {
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.52.0",
-    "uws-via-ssh": "git@github.com:uNetworking/uWebSockets.js.git#v20.52.0"
+    "uws-via-ssh": "git@github.com:uNetworking/uWebSockets.js.git#v20.69.0"
   }
 }
